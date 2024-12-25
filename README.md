@@ -1,4 +1,5 @@
 ### IF THE FILE DOES NOT WORK DOWNLOAD THE ZIP ONE
+## you have to download github functions
 
 ## IbridProxy
 
