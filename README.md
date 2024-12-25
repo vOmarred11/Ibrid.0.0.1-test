@@ -1,9 +1,11 @@
 ## IbridProxy
 
-| Description                                      | Details                                                                 |
+| Description                                      | Details                                                               |
 |--------------------------------------------------|-------------------------------------------------------------------------|
 | **Version**                                      | Trial Ibrid Proxy test for Minecraft Bedrock Edition                    |
-| **Made with**                                    | Created with Ghopertunnel                                                |
+| **Credits**                                    | Created with Ghopertunnel     (SanderTV)                                           |
+| **Author**                                    | Omar                                           |
+| **Discord**                                    | Join our discord for more informations: https://discord.gg/N59fXTEx                                           |
 
 ---
 
