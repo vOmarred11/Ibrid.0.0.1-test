@@ -1,34 +1,47 @@
 ## IbridProxy
--Trial ibrid proxy test for minecraft bedrock edition
--Made with Ghopertunnel
 
-# HOW TO USE
+| Description                                      | Details                                                                 |
+|--------------------------------------------------|-------------------------------------------------------------------------|
+| **Version**                                      | Trial Ibrid Proxy test for Minecraft Bedrock Edition                    |
+| **Made with**                                    | Created with Ghopertunnel                                                |
 
--Download\n
--Go to Ibrid.0.0.1-test\minecraft\protocol\login\data.go at line 68 and replace with your actual minecraft name
--Download jet-brains GoLang program or open it in any terminal
--Complete the authentication
--Then join using your ipv4 or your localhost: 127.0.0.1
+---
 
-# CONFIGURATION
+## **HOW TO USE**
 
-You also have to go in config.toml file and the add your server address (the server where the proxy will start) in remote address.
-It must be like this: (serverip:19132)
+| Steps                                          | Instructions                                                                                 |
+|------------------------------------------------|---------------------------------------------------------------------------------------------|
+| 1. Download the file                          | Download the file from the repository                                                      |
+| 2. Modify the data                             | Go to `Ibrid.0.0.1-test\minecraft\protocol\login\data.go` at line 68 and replace with your Minecraft name |
+| 3. Install GoLang                              | Download JetBrains GoLang or open the file in any terminal                                  |
+| 4. Complete authentication                    | Follow the instructions to authenticate                                                     |
+| 5. Join via localhost or your IP               | Use your IPv4 or localhost: `127.0.0.1`                                                    |
 
-# COMMANDS
+---
 
-In game there are commands like
--Gamemode
--Freeze
+## **CONFIGURATION**
 
-but some commands are currently disabled like:
+| Configuration                                     | Description                                                                                 |
+|--------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Configuration file                               | Modify the `config.toml` file                                                                |
+| Add remote server address                        | Add the server address where the proxy will start in the following format: `(serverip:19132)` |
 
--Reach
--Autoclicker
--NoClip
-and more
+---
 
-# ATTENTION
+## **COMMANDS**
 
--it's in no way a reference to MTRO or anything else
+| Command         | Status                                                                |
+|-----------------|-----------------------------------------------------------------------|
+| **Gamemode**    | Enabled                                                               |
+| **Freeze**      | Enabled                                                               |
+| **Reach**       | Disabled                                                              |
+| **Autoclicker** | Disabled                                                              |
+| **NoClip**      | Disabled                                                              |
 
+---
+
+## **ATTENTION**
+
+| Important Note                                                                                       |
+|------------------------------------------------------------------------------------------------------|
+| - This project is in no way a reference to MTRO or any other similar tools.                          |
