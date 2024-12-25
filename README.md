@@ -4,7 +4,7 @@
 
 # HOW TO USE
 
--Download
+-Download\n
 -Go to Ibrid.0.0.1-test\minecraft\protocol\login\data.go at line 68 and replace with your actual minecraft name
 -Download jet-brains GoLang program or open it in any terminal
 -Complete the authentication
