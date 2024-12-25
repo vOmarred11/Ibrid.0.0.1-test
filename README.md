@@ -1,20 +1,20 @@
-# IbridProxy
+## IbridProxy
 -Trial ibrid proxy test for minecraft bedrock edition
 
-HOW TO USE
+# HOW TO USE
 
--Unzip "minecraft" directory
+-Download
 -Go to Ibrid.0.0.1-test\minecraft\protocol\login\data.go at line 68 and replace with your actual minecraft name
 -Download jet-brains GoLang program or open it in any terminal
 -Complete the authentication
 -Then join using your ipv4 or your localhost: 127.0.0.1
 
-CONFIGURATION
+# CONFIGURATION
 
 You also have to go in config.toml file and the add your server address (the server where the proxy will start) in remote address.
 It must be like this: (serverip:19132)
 
-COMMANDS
+# COMMANDS
 
 In game there are commands like
 -Gamemode
@@ -27,7 +27,7 @@ but some commands are currently disabled like:
 -NoClip
 and more
 
-ATTENTION
+# ATTENTION
 
 -it's in no way a reference to MTRO or anything else
 
